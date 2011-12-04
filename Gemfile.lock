@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    sprocketize (0.1)
+      sprockets (~> 2.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    closure-compiler (1.1.4)
+    hike (1.2.1)
+    rack (1.3.5)
+    sprockets (2.0.3)
+      hike (~> 1.2)
+      rack (~> 1.0)
+      tilt (~> 1.1, != 1.3.0)
+    tilt (1.3.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  closure-compiler
+  sprocketize!
