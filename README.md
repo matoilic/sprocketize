@@ -1,4 +1,4 @@
-# Sprocketize: Command-line utility for the Sprockets gem
+# Sprocketize: Command-line utility for the [sprockets](http://getsprockets.com) gem
 
 # Usage #
 
