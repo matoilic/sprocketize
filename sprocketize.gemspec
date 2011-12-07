@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.files = Dir["README.md", "LICENSE", "lib/**/*.rb", "bin/*"]
   s.executables = ["sprocketize"]
 
-  s.add_dependency "sprockets", "~> 2.0.1"
+  s.add_dependency "sprockets", "~> 2.1.2"
 
   s.add_development_dependency "bundler"
   s.add_development_dependency "closure-compiler"
