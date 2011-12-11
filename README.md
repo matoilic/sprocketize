@@ -1,4 +1,4 @@
-# Sprocketize: Command-line utility for the [sprockets](http://getsprockets.com) gem
+# Sprocketize: Command-line utility for the [sprockets](http://getsprockets.com) gem [![Build Status](https://secure.travis-ci.org/matoilic/sprocketize.png)](http://travis-ci.org/matoilic/sprocketize)
 
 # Usage #
 
