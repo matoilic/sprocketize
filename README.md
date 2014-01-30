@@ -43,3 +43,7 @@ Copyright &copy; 2011 Mato Ilic <<info@matoilic.ch>>
 
 Sprockets is distributed under an MIT-style license. See LICENSE for
 details.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/matoilic/sprocketize/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
